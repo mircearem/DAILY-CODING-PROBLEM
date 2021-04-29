@@ -1,0 +1,12 @@
+{
+  "name": "161",
+  "version": "1.0.0",
+  "description": "Daily Coding Problem 161",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mircea Andone",
+  "license": "MIT"
+}
