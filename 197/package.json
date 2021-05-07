@@ -1,0 +1,11 @@
+{
+  "name":"daily-coding-problem-197",
+  "version": "1.0.0",
+  "description": "daily coding problem solution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mircea Andone",
+  "license": "MIT"
+}
